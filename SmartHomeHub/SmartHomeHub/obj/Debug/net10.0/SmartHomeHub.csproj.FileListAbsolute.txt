@@ -1,0 +1,14 @@
+C:\Users\samim\source\repos\SmartHomeHub\SmartHomeHub\obj\Debug\net10.0\SmartHomeHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samim\source\repos\SmartHomeHub\SmartHomeHub\obj\Debug\net10.0\SmartHomeHub.AssemblyInfoInputs.cache
+C:\Users\samim\source\repos\SmartHomeHub\SmartHomeHub\obj\Debug\net10.0\SmartHomeHub.AssemblyInfo.cs
+C:\Users\samim\source\repos\SmartHomeHub\SmartHomeHub\obj\Debug\net10.0\SmartHomeHub.csproj.CoreCompileInputs.cache
+C:\Users\samim\source\repos\SmartHomeHub\SmartHomeHub\bin\Debug\net10.0\SmartHomeHub.exe
+C:\Users\samim\source\repos\SmartHomeHub\SmartHomeHub\bin\Debug\net10.0\SmartHomeHub.deps.json
+C:\Users\samim\source\repos\SmartHomeHub\SmartHomeHub\bin\Debug\net10.0\SmartHomeHub.runtimeconfig.json
+C:\Users\samim\source\repos\SmartHomeHub\SmartHomeHub\bin\Debug\net10.0\SmartHomeHub.dll
+C:\Users\samim\source\repos\SmartHomeHub\SmartHomeHub\bin\Debug\net10.0\SmartHomeHub.pdb
+C:\Users\samim\source\repos\SmartHomeHub\SmartHomeHub\obj\Debug\net10.0\SmartHomeHub.dll
+C:\Users\samim\source\repos\SmartHomeHub\SmartHomeHub\obj\Debug\net10.0\refint\SmartHomeHub.dll
+C:\Users\samim\source\repos\SmartHomeHub\SmartHomeHub\obj\Debug\net10.0\SmartHomeHub.pdb
+C:\Users\samim\source\repos\SmartHomeHub\SmartHomeHub\obj\Debug\net10.0\SmartHomeHub.genruntimeconfig.cache
+C:\Users\samim\source\repos\SmartHomeHub\SmartHomeHub\obj\Debug\net10.0\ref\SmartHomeHub.dll
